@@ -1,0 +1,3 @@
+Ceci est un fichier texte présentant le projet Android
+Il s'agit de faire une application sur les Fêtes de Bayonne
+
